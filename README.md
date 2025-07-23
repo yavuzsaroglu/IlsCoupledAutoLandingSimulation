@@ -1,2 +1,3 @@
 # IlsCoupledAutoLandingSimulation
-It's an ILS coupled fully automatic landing simulation that is made by using Unreal Engine. 
+This project is a C++ based autopilot simulation developed in Unreal Engine. It was designed as part of my master's thesis in Electrical and Electronics Engineering at Hacettepe University.
+
